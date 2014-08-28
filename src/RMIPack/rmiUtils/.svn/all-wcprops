@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/122/trunk/AWS/src/RMIPack/rmiUtils
+END
+IRMIUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/122/trunk/AWS/src/RMIPack/rmiUtils/IRMIUtils.java
+END
+IRMI_Defs.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/122/trunk/AWS/src/RMIPack/rmiUtils/IRMI_Defs.java
+END
+server.policy
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/AWS/src/RMIPack/rmiUtils/server.policy
+END
+RMIUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/122/trunk/AWS/src/RMIPack/rmiUtils/RMIUtils.java
+END

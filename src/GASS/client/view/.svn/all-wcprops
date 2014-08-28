@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/229/trunk/AWS/src/GASS/client/view
+END
+ClientLogUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/188/trunk/AWS/src/GASS/client/view/ClientLogUI.java
+END
+ClientJoinDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/228/trunk/AWS/src/GASS/client/view/ClientJoinDialog.java
+END
+ClientMemberUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/227/trunk/AWS/src/GASS/client/view/ClientMemberUI.java
+END
+ClientV2Madapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/200/trunk/AWS/src/GASS/client/view/ClientV2Madapter.java
+END
+ClientMainUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/229/trunk/AWS/src/GASS/client/view/ClientMainUI.java
+END
+ClientKeyUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/AWS/src/GASS/client/view/ClientKeyUI.java
+END

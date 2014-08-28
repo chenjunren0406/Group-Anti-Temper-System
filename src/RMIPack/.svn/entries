@@ -1,0 +1,34 @@
+10
+
+dir
+235
+https://comp529-fall14.googlecode.com/svn/trunk/AWS/src/RMIPack
+https://comp529-fall14.googlecode.com/svn
+
+
+
+2014-04-12T09:59:04.752496Z
+122
+wuyanfei1990@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ae7b45f1-5f58-dd6a-011b-2546fbfe9659
+
+rmiUtils
+dir
+
+util
+dir
+

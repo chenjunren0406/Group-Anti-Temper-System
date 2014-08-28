@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/235/trunk/AWS/src/dataPacket
+END
+IDataPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/87/trunk/AWS/src/dataPacket/IDataPacket.java
+END
+ClientDPExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/232/trunk/AWS/src/dataPacket/ClientDPExecutor.java
+END
+DataPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/121/trunk/AWS/src/dataPacket/DataPacket.java
+END
+ServerDPExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/235/trunk/AWS/src/dataPacket/ServerDPExecutor.java
+END
+OperationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/177/trunk/AWS/src/dataPacket/OperationType.java
+END

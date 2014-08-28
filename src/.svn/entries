@@ -1,0 +1,61 @@
+10
+
+dir
+235
+https://comp529-fall14.googlecode.com/svn/trunk/AWS/src
+https://comp529-fall14.googlecode.com/svn
+
+
+
+2014-04-24T03:12:11.564080Z
+235
+wuyanfei1990@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ae7b45f1-5f58-dd6a-011b-2546fbfe9659
+
+EchoTest
+dir
+
+FileRecord
+dir
+
+GASS
+dir
+
+LocalLog
+dir
+
+RMIPack
+dir
+
+dataPacket
+dir
+
+dataType
+dir
+
+membership
+dir
+
+pushPacket
+dir
+
+stub
+dir
+
+test
+dir
+

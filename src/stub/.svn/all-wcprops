@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/234/trunk/AWS/src/stub
+END
+ServerHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/234/trunk/AWS/src/stub/ServerHost.java
+END
+ClientHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/231/trunk/AWS/src/stub/ClientHost.java
+END
+IHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/152/trunk/AWS/src/stub/IHost.java
+END
